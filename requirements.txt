@@ -1,0 +1,13 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+firebase-admin==6.5.0
+google-cloud-storage==2.18.0
+google-cloud-firestore==2.16.0
+Pillow==10.4.0
+pytesseract==0.3.10
+
+# Security Libraries
+bcrypt==4.2.0
+pyotp==2.9.0
+cryptography==43.0.0
+PyJWT==2.9.0
